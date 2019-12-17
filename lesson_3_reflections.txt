@@ -7,7 +7,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    because when pulling chages manually you can specify what branch you want 
+    to pull, while automaticly git will pull all accessible branches.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
